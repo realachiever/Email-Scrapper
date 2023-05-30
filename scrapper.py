@@ -7,7 +7,7 @@ import json
 base_url = "https://www.11880.com/suche/Handwerk/deutschland?page="
 
 # Number of pages to scrape
-total_pages = 3
+total_pages = 18270
 
 # List to store all the extracted emails
 emails = []
